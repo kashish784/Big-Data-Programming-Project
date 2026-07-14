@@ -1,0 +1,8 @@
+findspark
+pyspark
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+pyarrow
