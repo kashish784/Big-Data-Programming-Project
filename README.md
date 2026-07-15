@@ -95,6 +95,7 @@ The following regression algorithms were implemented and compared:
 - Linear Regression
 - Decision Tree Regressor
 - Random Forest Regressor
+- Gradient Boosted Tree Regressor
   
 
 ---
